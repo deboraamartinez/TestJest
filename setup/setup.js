@@ -1,0 +1,1 @@
+module.exports = animals = ['elephant', 'zebra', 'bear', 'tiger']
